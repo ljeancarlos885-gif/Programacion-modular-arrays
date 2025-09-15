@@ -53,9 +53,9 @@ Algoritmo calcular_costo_funcion_de_tiempo
             4:
                 mostrar_costos(costos)
             5:
-                Escribir "Saliendo del programa..."
+                Escribir "saliendo del programa..."
             De Otro Modo:
-                Escribir "opcion invalida. Intenta de nuevo."
+                Escribir "opcion invalida vuelve a intentarlo"
         FinSegun
     Hasta Que option = 5
 	
